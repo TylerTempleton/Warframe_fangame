@@ -1,0 +1,85 @@
+--Design Document Dragon Quest: Warframe FANGAME--
+
+Tenno Warrior Quest: Warframe 
+
+-Simular styling and game play as Dragon quest 3.
+
+-Will require a spoiler warning before starting Due to characters and places
+
+-Use of familiar NPC's As the Lotus, Ortis, Konzu Ect
+
+-Use of Enemies found in Warframe 
+	- Generic enemies as the basic mobs found in dungeons and overworld(s) such and basic Greneer , corpus, infested and corrupted/orokin
+	- Bosses will draw from  Bosses found in the game (Vor, Alan V, Ect ) and potentially secret bosses/boss mobs (such as the Eidolons)
+	
+
+--Stats--
+HP - Hit points, Life value of Frame/ Enemy. Reach 0 they are downed/dead.
+
+EP - Energy Points, used to use skills/spells.
+
+STR - Strength. Repersents Phystical Damage when using weapons. 
+
+ARM - Amour Defence, Reduction of Phystical damage
+
+AGL - Agility. Determines a Character's prioirty in turns. Increases evasion/defence  
+
+WIS - wisdom scales up EP pool(flow), and magic dmg (Intensify) . (dq 3 - Spell learning, A.I. Efficency)
+
+LUCK - increases critical chance effects chance to being afflicted by status aliments
+
+//reference for later https://dragon-quest.org/wiki/List_of_character_statistics
+
+
+--Classes--
+//Class -  Avatar Warframe
+
+Main Character(Hero class) - Excalibur/Umbra
+All rounder - spells will be done via Orbiter air support(Ortis)
+
+
+Mage - Ember?
+-High WIS stat based. 
+-Low STR, and ARM. 
+-Strong focus on Damging Spells (Black Magic) 
+
+
+Preist (healer) - Trinity
+-Stong Focusd on healing and buffing abilities. 
+Higher STR, AGL, ARM then Mage Counterpart
+
+
+Jester (Random(good/bad), High Luck stat(high crits)): Mirage?
+- Used as Built in Hard mode 
+
+
+Martial Artist ( bare fist/claw  no magic): Valkyr
+
+
+Warrior: Rhino?
+
+
+Merchant: Hydroid, Nekros 
+
+
+Sage Class - Oberon
+Able to do both Black Magic and White Magic but not to the highest spells  
+
+
+Theif - Loki
+
+
+--NPCS--
+B.B.E.G.: VOR? BAALUS? Tenno Daddy (hey kiddo)? 
+King: Lotus
+Merchant : Baro
+Major Quest givers:
+	Earth - Konzu
+	Venus - 
+	Mars
+	
+	
+
+
+
+
